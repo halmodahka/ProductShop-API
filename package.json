@@ -1,0 +1,16 @@
+{
+  "name": "ProductShop-API",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/halmodahka/ProductShop-API.git",
+  "author": "Haya <h_almodahka@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "slugify": "^1.4.7"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
